@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "id": "0c24",
+      "category": "cloths",
+      "status": "Active"
+    },
+    {
+      "id": "40c1",
+      "category": "Headphones",
+      "status": "Active"
+    },
+    {
+      "id": "8255",
+      "category": "Footwear",
+      "status": "Active"
+    }
+  ],
+  "product": [
+    {
+      "id": "c7a1",
+      "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/20547d52-3e1b-4c3d-b917-f0d7e0eb8bdf/custom-nike-air-force-1-low-by-you-shoes.png",
+      "title": "Shoes",
+      "price": "8999",
+      "description": "Men's Nike Shoes ",
+      "stock": "34",
+      "product_cat": "8255"
+    },
+    {
+      "id": "ba02",
+      "img": "https://sony.scene7.com/is/image/sonyglobalsolutions/Product-Intro-Black_standard_M?$productIntroPlatemobile$&fmt=png-alpha",
+      "title": "Wireless Headphones",
+      "price": "1299",
+      "description": "Sony Headphones",
+      "stock": "23",
+      "product_cat": "40c1"
+    }
+  ]
+}
